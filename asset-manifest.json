@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://yonatan92.github.io/csb-m91yy/static/js/main.0c911a23.chunk.js",
+    "main.js.map": "https://yonatan92.github.io/csb-m91yy/static/js/main.0c911a23.chunk.js.map",
+    "runtime-main.js": "https://yonatan92.github.io/csb-m91yy/static/js/runtime-main.357259ee.js",
+    "runtime-main.js.map": "https://yonatan92.github.io/csb-m91yy/static/js/runtime-main.357259ee.js.map",
+    "static/js/2.54796d9c.chunk.js": "https://yonatan92.github.io/csb-m91yy/static/js/2.54796d9c.chunk.js",
+    "static/js/2.54796d9c.chunk.js.map": "https://yonatan92.github.io/csb-m91yy/static/js/2.54796d9c.chunk.js.map",
+    "index.html": "https://yonatan92.github.io/csb-m91yy/index.html",
+    "precache-manifest.81ac358fd776ecddff9104659ba33ab2.js": "https://yonatan92.github.io/csb-m91yy/precache-manifest.81ac358fd776ecddff9104659ba33ab2.js",
+    "service-worker.js": "https://yonatan92.github.io/csb-m91yy/service-worker.js",
+    "static/js/2.54796d9c.chunk.js.LICENSE.txt": "https://yonatan92.github.io/csb-m91yy/static/js/2.54796d9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.357259ee.js",
+    "static/js/2.54796d9c.chunk.js",
+    "static/js/main.0c911a23.chunk.js"
+  ]
+}
